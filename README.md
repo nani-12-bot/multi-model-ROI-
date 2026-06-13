@@ -61,6 +61,9 @@ This project focuses on Region of Interest (ROI) Localization and Medical Image 
 - Multi-Disease Classification
 - Web-Based Deployment
 
+Screenshots
+<img width="927" height="422" alt="image" src="https://github.com/user-attachments/assets/aeda7c9a-1bff-4ae0-b883-76328d414f30" />
+
 ## Author
 
 Naveen Kumar
